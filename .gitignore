@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Fall_Gyus_w_ball/Saved/Config/CrashReportClient/
+
+Fall_Gyus_w_ball/Saved/Logs/
+
+Fall_Gyus_w_ball/Intermediate/CachedAssetRegistry.bin
+
+Fall_Gyus_w_ball/Saved/AutoScreenshot.png
