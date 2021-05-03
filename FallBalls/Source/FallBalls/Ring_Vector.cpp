@@ -24,7 +24,7 @@ FVector ARing_Vector::Rotate_vector(FVector a, FVector b, float bc_, float angle
 	FVector temp_final = temp_left * bc_;
 
 
-	temp_final = temp_final.RotateAngleAxis(90, axisZ);
+	temp_final = temp_final.RotateAngleAxis(1, axisZ);
 	temp_final = temp_final.RotateAngleAxis(angle_X, axis);
 
 	//temp_final = temp_final.RotateAngleAxis(angle_Z, FVector(0, 0.5, 1));
